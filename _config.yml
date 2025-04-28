@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-MX"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Math blog"
 title_separator          : "-"
@@ -113,13 +113,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Xavier Sierra-Canto"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Mérida, Yucatán, México"
   email            :
   links:
-    - label: "Email"
+    - label: "xavier.sierra@utmetropolitana.edu.mx"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"

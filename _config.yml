@@ -19,7 +19,7 @@ locale                   : "es-MX"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Código Primo"
 title_separator          : "-"
-subtitle                 : "Matemáticas con programación" # site tagline that appears below site title in masthead
+subtitle                 : "Matemáticas-Programación" # site tagline that appears below site title in masthead
 name                     : "Xavier"
 description              : "An amazing math website."
 url                      : "https://xa-sierra.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

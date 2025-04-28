@@ -119,7 +119,7 @@ author:
   location         : "Mérida, Yucatán, México"
   email            :
   links:
-    - label: "Institution"
+    - label: "Correo"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:xavier.sierra@utmetropolitana.edu.mx"
     - label: "Website"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Xa-Sierra"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Xa-Sierra"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

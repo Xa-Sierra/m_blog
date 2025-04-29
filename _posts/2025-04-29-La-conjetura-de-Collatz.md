@@ -2,12 +2,10 @@
 title: "La conjetura de Collatz"
 header:
   overlay_image: /assets/images/Collatz-2.png
-  caption: "Cualquier número entero positivo, si se aplica repetidamente una función que divide el número por 2 si es par, o lo multiplica por 3 y le suma 1 si es impar, eventualmente se llegará al número 1"
+  caption: ""
   actions:
-    - label: "Call to action 1"
-      url: "https://github.com"
-    - label: "Call to action 2"
-      url: "https://mademistakes.com"
+    - label: "Home"
+      url: "https://xa-sierra.github.io/m_blog"
 categories:
   - Matemáticas
   - Uncategorized

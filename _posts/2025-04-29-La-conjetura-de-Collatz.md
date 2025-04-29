@@ -1,7 +1,7 @@
 ---
 title: "La conjetura de Collatz"
 header:
-  overlay_image: /assets/images/Collatz-1.jpeg
+  overlay_image: /assets/images/Collatz-2.png
   caption: "Cualquier número entero positivo, si se aplica repetidamente una función que divide el número por 2 si es par, o lo multiplica por 3 y le suma 1 si es impar, eventualmente se llegará al número 1"
   actions:
     - label: "Call to action 1"
@@ -17,18 +17,13 @@ tags:
   - problema
 last_modified_at: 2025-04-29T11:39:01-04:00
 ---
+Un problema sencillo que aun no tiene una demostración para todos los números naturales
 
-This post should display a **header with an overlay image**, if the theme supports it.
-
-Non-square images can provide some unique styling issues.
-
-This post tests overlay header images.
-
-## Overlay filter
+## Quién fue Collatz
 
 You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
 
-![transparent black overlay]({{ '/assets/images/mm-header-overlay-black-filter.jpg' | relative_url }})
+![transparent black overlay]({{ '/assets/images//assets/images/Collatz-2.png' | relative_url }})
 
 ```yaml
 excerpt: "This post should [...]"

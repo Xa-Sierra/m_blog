@@ -1,7 +1,7 @@
 ---
 title: "La conjetura de Collatz"
 header:
-  overlay_image: /assets/images/Collatz-2.png
+  overlay_image: /assets/images/Collatz-1.jpeg
   caption: "Cualquier número entero positivo, si se aplica repetidamente una función que divide el número por 2 si es par, o lo multiplica por 3 y le suma 1 si es impar, eventualmente se llegará al número 1"
   actions:
     - label: "Call to action 1"

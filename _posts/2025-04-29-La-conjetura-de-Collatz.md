@@ -2,6 +2,7 @@
 title: "La conjetura de Collatz"
 header:
   overlay_image: /assets/images/Collatz-2.png
+  overlay_filter: 0.5 
   caption: ""
   actions:
     - label: "Home"
@@ -19,9 +20,7 @@ Un problema sencillo que aun no tiene una demostración para todos los números 
 
 ## Quién fue Collatz
 
-You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
-
-![transparent black overlay]({{ '/assets/images//assets/images/Collatz-2.png' | relative_url }})
+Lothar Collatz , como la mayoría de los estudiantes alemanes de su época, estudió en diversas universidades. Ingresó en la Universidad de Greifswald en 1928 , trasladándose a Múnich, luego a Gotinga y finalmente a Berlín, donde se doctoró con Alfred Klose. Collatz obtuvo su doctorado en 1935.
 
 ```python
 def collatz(n):

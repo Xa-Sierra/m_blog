@@ -18,9 +18,11 @@ last_modified_at: 2025-04-29T11:39:01-04:00
 ---
 Un problema sencillo que aun no tiene una demostración para todos los números naturales
 
+## El problema
+Para poder platear este problema vamos a hacer un ejemplo sencillo. Empezamos con un numero natural cualquiera, por ejemplo el 5, si es par entonces debemos de dividirlo entre dos, si no, debemos multiplecarlo por 3 y sumarle uno. Entonces, el 5 es impar, por lo que lo multiplecamos por 3 y le sumamos 1: 5 * 3 = 15, 15 + 1 = 16. El resultado es par entonces lo dividimos entre 2, 16/2 = 8, al ser impar lo dividims nuevamente 8/2 = 4, nuevamente 4/2=2 y finalmente 2/2 = 1. 
 ## Quién fue Collatz
 
-Lothar Collatz , como la mayoría de los estudiantes alemanes de su época, estudió en diversas universidades. Ingresó en la Universidad de Greifswald en 1928 , trasladándose a Múnich, luego a Gotinga y finalmente a Berlín, donde se doctoró con Alfred Klose. Collatz obtuvo su doctorado en 1935.
+Lothar Collatz , como la mayoría de los estudiantes alemanes de su época, estudió en diversas universidades. Ingresó en la Universidad de Greifswald en 1928 , trasladándose a Múnich, luego a Gotinga y finalmente a Berlín, donde se doctoró con Alfred Klose. Collatz obtuvo su doctorado en 1935. 
 
 ```python
 def collatz(n):
@@ -33,19 +35,4 @@ def collatz(n):
 
 # Probemos con n = 17
 print(collatz(137))
-```
-
-Or if you want to do more fancy things, go full rgba:
-
-![transparent red overlay]({{ '/assets/images/mm-header-overlay-red-filter.jpg' | relative_url }})
-
-```yaml
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 ```
